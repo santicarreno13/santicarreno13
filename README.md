@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SENA**
 
-- 🌱 I’m currently learning **node js, pyton, react.**
+- 🌱 I’m currently learning **node js, python, react. perl**
 
 - 👨‍💻 All of my projects are available at [https://github.com/santicarreno13](https://github.com/santicarreno13)
 
