@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **SENA**
 
-- 🌱 I’m currently learning **node js, python, react. perl**
+- 🌱 I’m currently learning **node js, python, react, perl**
 
 - 👨‍💻 All of my projects are available at [https://github.com/santicarreno13](https://github.com/santicarreno13)
 
 - 📫 How to reach me **santiagoestebancmc@gmail.com**
 
-- ⚡ Fun fact **I'm alone in life and if someone wants to come and watch series and while it's raining, I'll wait here.**
+- ⚡ Fun fact *if life gives you lemons make lemonade**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
